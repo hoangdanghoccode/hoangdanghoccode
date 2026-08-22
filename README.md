@@ -2,8 +2,6 @@
 
 ### Software Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangdanghoccode" alt="hoangdanghoccode" /></a> </p>
-
 - 🔭 I'm currently working on **Building web applications and exploring modern software development practices**
 
 - 🌱 I'm currently learning **React, TypeScript, .NET, system design, and software architecture**
